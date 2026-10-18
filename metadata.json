@@ -1,0 +1,6 @@
+{
+  "name": "Tennis Motion 3D - Jogo de Tênis por Gestos Corporais",
+  "description": "Jogo de tênis 3D moderno e dinâmico para jogar na TV usando a câmera para detectar movimentos corporais, saques e rebatidas sem controle físico.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
